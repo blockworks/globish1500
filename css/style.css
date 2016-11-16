@@ -1,0 +1,44 @@
+body, html{
+	background-color: #eee;
+	font-family: Courier, Verdana, sans-serif;
+}
+
+h1{
+	text-align: center;
+	font-size: 1.4em;
+}
+
+.inner{
+	width: 95%;
+	margin: 0 auto;
+	text-align: center;
+}
+#tango{
+	text-align: center;
+	padding: 15px;
+	margin: 0 auto 1em auto;
+	background-color: #fff;
+}
+#question{
+	font-size: 1.2em;
+	line-height: 1.2;
+	margin-bottom: 5px;
+	font-weight: bold;
+}
+#answer{
+	font-size: 1.1em;
+	line-height: 1.2;
+	color: #777;
+	font-weight: bold;
+	height: 2em;
+}
+
+#archive i{
+	font-size: 3em;
+}
+#wakaranai{
+	width: 95%;
+	padding: 4px;
+	text-align: left;
+	height: 10em;
+}
